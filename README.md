@@ -1,3 +1,28 @@
+# FireChat: A responsive real-time group chat application
+
+_A responsive real-time web chat application with Google authentication_
+
+<br/>
+
+**Link to the Web App:** [https://firechat-now.vercel.app/](https://firechat-now.vercel.app/)
+
+<br/>
+
+**Tech Stack**
+* Next.js
+* Firebase
+* React
+* CSS
+
+<br/>
+
+**Features**
+* Google authentication
+* Realtime chat
+* Responsive Design
+
+<br/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
